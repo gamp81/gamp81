@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=gamp81&icon=1&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/gmitiweb?country.x=EC&locale.x=es_XC) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gmitiweb?country.x=EC&locale.x=es_XC) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
